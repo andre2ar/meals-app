@@ -1,4 +1,4 @@
-# mealsapp
+# Meals App
 
 Meals app
 
